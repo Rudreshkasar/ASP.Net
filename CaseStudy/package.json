@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "react": "^18.3.0-next-b14d7fa4b-20221209",
+    "react-bootstrap": "^2.7.0",
+    "react-dom": "^18.3.0-next-b14d7fa4b-20221209"
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\1000075341\source\repos\OMSProject\OMSProject\bin\Debug\netcoreapp2.1\OMSProject.deps.json
+C:\Users\1000075341\source\repos\OMSProject\OMSProject\bin\Debug\netcoreapp2.1\OMSProject.runtimeconfig.json
+C:\Users\1000075341\source\repos\OMSProject\OMSProject\bin\Debug\netcoreapp2.1\OMSProject.runtimeconfig.dev.json
+C:\Users\1000075341\source\repos\OMSProject\OMSProject\bin\Debug\netcoreapp2.1\OMSProject.dll
+C:\Users\1000075341\source\repos\OMSProject\OMSProject\obj\Debug\netcoreapp2.1\OMSProject.csprojAssemblyReference.cache
+C:\Users\1000075341\source\repos\OMSProject\OMSProject\obj\Debug\netcoreapp2.1\OMSProject.csproj.CoreCompileInputs.cache
+C:\Users\1000075341\source\repos\OMSProject\OMSProject\obj\Debug\netcoreapp2.1\OMSProject.RazorAssemblyInfo.cache
+C:\Users\1000075341\source\repos\OMSProject\OMSProject\obj\Debug\netcoreapp2.1\OMSProject.RazorAssemblyInfo.cs
+C:\Users\1000075341\source\repos\OMSProject\OMSProject\obj\Debug\netcoreapp2.1\OMSProject.AssemblyInfoInputs.cache
+C:\Users\1000075341\source\repos\OMSProject\OMSProject\obj\Debug\netcoreapp2.1\OMSProject.AssemblyInfo.cs
+C:\Users\1000075341\source\repos\OMSProject\OMSProject\obj\Debug\netcoreapp2.1\OMSProject.RazorTargetAssemblyInfo.cache
+C:\Users\1000075341\source\repos\OMSProject\OMSProject\bin\Debug\netcoreapp2.1\OMSProject.pdb
+C:\Users\1000075341\source\repos\OMSProject\OMSProject\obj\Debug\netcoreapp2.1\OMSProject.dll
+C:\Users\1000075341\source\repos\OMSProject\OMSProject\obj\Debug\netcoreapp2.1\OMSProject.pdb
+C:\Users\1000075341\source\repos\OMSProject\OMSProject\bin\Debug\netcoreapp2.1\OMSProject.Views.dll
+C:\Users\1000075341\source\repos\OMSProject\OMSProject\obj\Debug\netcoreapp2.1\OMSProject.csproj.CopyComplete
